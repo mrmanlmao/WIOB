@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(226, 224, 224);
+    margin: 0 0 0 0;
+}
+
+nav {
+    background-color: #333;
+    width: 100%;
+    position: fixed;
+}
+
+li a:hover {
+    background-color: #111;
+ }
